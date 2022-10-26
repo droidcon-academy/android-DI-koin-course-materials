@@ -1,3 +1,2 @@
-# course-id-course-materials
 # Study materials and source code for **Droidcon Academy** course 
-> # Add Course Name 
+> # Dependency Injection with Koin in Android
